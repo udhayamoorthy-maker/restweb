@@ -64,7 +64,7 @@ home.html
   </div>
 
   <footer style="width:1410px; height:20px; color:white; background-color:black; text-align:center; position:relative; top:50px; left:-20px;">
-    &copy;DHIVYA DHARSHINI.P (25017613)
+    &copy;UDHAYAMOORTHY A (25004153)
   </footer>
 
 </body>
